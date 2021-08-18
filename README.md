@@ -13,3 +13,9 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ## Hello
 
 Write hell exmaple follow by [hello-rust](https://www.rust-lang.org/learn/get-started#generating-new-project)
+
+## Basic
+
+Official refs:
+
+- [the book](https://doc.rust-lang.org/book/)
