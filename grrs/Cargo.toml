@@ -1,0 +1,22 @@
+[package]
+name = "grrs"
+version = "0.1.0"
+authors = ["Yu Le <is.yuler@email.com>"]
+license = "MIT"
+description = "A tool to search files"
+readme = "README.md"
+homepage = "https://github.com/yuler/learn-rust"
+repository = "https://github.com/yuler/learn-rust"
+keywords = ["cli", "search", "demo"]
+categories = ["command-line-utilities"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.43"
+assert_cmd = "2.0.0"
+predicates = "2.0.2"
+structopt = "0.3.22"
+
+[dev-dependencies]
+tempfile = "3"
