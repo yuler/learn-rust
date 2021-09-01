@@ -26,3 +26,13 @@ VSCode Extension List:
 - [The Book](https://github.com/rust-lang/book) aka "Rust 权威指南" in Chinese
 - [Rust by Example](https://github.com/rust-lang/rust-by-example)
 - [rustlings](https://github.com/rust-lang/rustlings)
+
+## GeekBang
+
+> Record some exercises from the [geekbang] column
+
+- `httpie` CLI
+
+<!-- Links -->
+
+[geekbang]: https://time.geekbang.org/
