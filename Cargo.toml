@@ -4,5 +4,6 @@
 members = [
     "explore",
     "basic",
-    "geekbang/httpie"
+    "geekbang/httpie",
+    "rust-by-examples"
 ]
