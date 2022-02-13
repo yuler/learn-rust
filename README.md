@@ -14,7 +14,8 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 VSCode Extension List:
 
-- [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer)
+- [rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
+- ~~[rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer)~~
 - [rust syntax](https://marketplace.visualstudio.com/items?itemName=dustypomerleau.rust-syntax)
 - [crates](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates)
 - [better toml](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
