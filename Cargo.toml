@@ -2,8 +2,8 @@
 
 [workspace]
 members = [
+    "the_book",
+    "rust_by_examples",
     "explore",
-    "basic",
-    "geekbang/httpie",
-    "rust-by-examples"
+    "geekbang/httpie"
 ]
